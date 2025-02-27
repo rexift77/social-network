@@ -46,7 +46,3 @@ I have a clear focus on time-to-market and don't prioritize technical debt. And 
 📧 Email: [clear.up.w@gmail.com](mailto:clear.cup.w@gmail.com)
 
 👋 Github: [https://github.com/rexift](https://github.com/rexift)
-
-🌎 DEV Community: [https://dev.to/sergeyleschev](https://dev.to/sergeyleschev)
-
-ALT: SIARHEI LIASHCHOU
